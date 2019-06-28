@@ -1,0 +1,6 @@
+git status
+git stash file.txt
+git add file.txt
+git fetch
+git push
+git pull
